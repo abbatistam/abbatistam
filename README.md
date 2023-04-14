@@ -1,16 +1,17 @@
-### Hi there 👋
+# Frontend Developer in Vue.js
 
-<!--
-**abbatistam/abbatistam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate technology developer specialized in the Vue.js framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main skills include:
+
+- Developing web applications using HTML, CSS, TypeScript, and Vue.js.
+- Implementing responsive designs using TailwindCSS.
+- Implementing unit and end-to-end (e2e) tests using Vitest and Cypress.
+- Skills in problem identification and error resolution.
+- Knowledge of Back-end with Golang and databases like MongoDB and PostgreSQL.
+
+## Contact
+
+You can contact me through my email at antoniobbatistam@gmail.com
