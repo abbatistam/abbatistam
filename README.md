@@ -1,6 +1,6 @@
 # Antonio B. Batista
 
-## Full-Stack Frontend Developer | Next.js, Vue.js, Nuxt.js & TypeScript | Computer Science Background
+## Full-Stack Frontend Developer | Next.js, Vue.js, Nuxt.js, React & TypeScript | Computer Science Background
 
 <div align="center">
   
