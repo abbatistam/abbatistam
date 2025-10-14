@@ -126,7 +126,6 @@ With experience in multiple modern frameworks including React, Vue, and Angular 
 **Passionate about frontend development and always interested in discussing innovative projects and technical challenges.**
 
 - 📧 **Email**: [antoniobbatistam@gmail.com](mailto:antoniobbatistam@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/antonio-bryan-batista-8331b8253](https://www.linkedin.com/in/antonio-bryan-batista-8331b8253)
 - 🌐 **Location**: Remote work experience worldwide
 
 ---
