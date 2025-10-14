@@ -1,10 +1,10 @@
 # Antonio B. Batista
 
-## Full-Stack Frontend Developer | Next.js, Vue.js, Nuxt.js, React & TypeScript | Computer Science Background
+## Full-Stack Frontend Developer | Next.js, Vue.js, Nuxt.js, React, Angular & TypeScript | Computer Science Background
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Next.js+%26+Vue.js+Developer;React+%26+TypeScript+Expert;Pixel+Perfect+Design;Storybook+%26+Component+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Next.js+%26+Vue.js+Developer;React+%26+Angular+Expert;TypeScript+Specialist;Pixel+Perfect+Design;Storybook+%26+Component+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## <span id="about">🎯 About</span>
 
-**Frontend Developer** with a **Computer Science background** focused on **Next.js**, **Vue.js**, **Nuxt.js**, **React**, and **TypeScript** development. I enjoy building modern web applications with clean, reusable components and pixel-perfect designs.
+**Frontend Developer** with a **Computer Science background** focused on **Next.js**, **Vue.js**, **Nuxt.js**, **React**, **Angular**, and **TypeScript** development. I enjoy building modern web applications with clean, reusable components and pixel-perfect designs.
 
-With experience in both React and Vue ecosystems (Next.js/Nuxt.js), plus modern development tools like Storybook, I strive to create intuitive user experiences while maintaining code quality and performance standards.
+With experience in multiple modern frameworks including React, Vue, and Angular ecosystems (Next.js/Nuxt.js), plus modern development tools like Storybook, I strive to create intuitive user experiences while maintaining code quality and performance standards.
 
 > **"Always learning and improving, one component at a time."**
 
@@ -28,6 +28,7 @@ With experience in both React and Vue ecosystems (Next.js/Nuxt.js), plus modern 
 - **Vue.js 3** with Composition API and modern patterns
 - **Nuxt.js** for Vue-based SSR/SSG applications
 - **React** with hooks, context, and reusable component patterns
+- **Angular** with standalone components, signals, and reactive programming
 - **TypeScript** for type-safe development and better maintainability
 
 ### **Component Systems & Design**
@@ -66,6 +67,7 @@ With experience in both React and Vue ecosystems (Next.js/Nuxt.js), plus modern 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -130,5 +132,5 @@ With experience in both React and Vue ecosystems (Next.js/Nuxt.js), plus modern 
 ---
 
 <div align="center">
-  <i>Building modern, intuitive web applications with Next.js, Vue.js, React, and TypeScript for exceptional user experiences.</i>
+  <i>Building modern, intuitive web applications with Next.js, Vue.js, React, Angular, and TypeScript for exceptional user experiences.</i>
 </div>
