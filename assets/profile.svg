@@ -1,0 +1,89 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Antonio B. Batista - Software Engineer</title>
+  <desc id="desc">Professional GitHub profile banner for Antonio B. Batista with role, stack, focus and contact information.</desc>
+
+  <style>
+    .grid { animation: gridPulse 8s ease-in-out infinite; }
+    .frame { animation: frameGlow 7s ease-in-out infinite; }
+    .signal { animation: signalPulse 2.8s ease-in-out infinite; transform-origin: 1108px 164px; }
+    .core { animation: corePulse 2.8s ease-in-out infinite; transform-origin: 1108px 164px; }
+    .scan { animation: scanMove 5s ease-in-out infinite; stroke-dasharray: 72 240; }
+    .line-a { animation-delay: 0s; }
+    .line-b { animation-delay: .45s; }
+    .line-c { animation-delay: .9s; }
+    .fade { animation: textIn 900ms ease-out both; }
+    .d1 { animation-delay: 120ms; }
+    .d2 { animation-delay: 260ms; }
+    .d3 { animation-delay: 420ms; }
+
+    @keyframes gridPulse {
+      0%, 100% { opacity: .28; }
+      50% { opacity: .48; }
+    }
+
+    @keyframes frameGlow {
+      0%, 100% { stroke: #253340; }
+      50% { stroke: #3A5062; }
+    }
+
+    @keyframes signalPulse {
+      0%, 100% { opacity: .55; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.08); }
+    }
+
+    @keyframes corePulse {
+      0%, 100% { opacity: .85; transform: scale(1); }
+      50% { opacity: 1; transform: scale(.82); }
+    }
+
+    @keyframes scanMove {
+      0% { stroke-dashoffset: 0; opacity: .2; }
+      50% { opacity: 1; }
+      100% { stroke-dashoffset: -312; opacity: .2; }
+    }
+
+    @keyframes textIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <rect width="1280" height="640" fill="#0A0F14"/>
+
+  <g class="grid" opacity="0.42">
+    <path d="M0 96H1280" stroke="#1C2933"/>
+    <path d="M0 192H1280" stroke="#1C2933"/>
+    <path d="M0 288H1280" stroke="#1C2933"/>
+    <path d="M0 384H1280" stroke="#1C2933"/>
+    <path d="M0 480H1280" stroke="#1C2933"/>
+    <path d="M0 576H1280" stroke="#1C2933"/>
+    <path d="M160 0V640" stroke="#1C2933"/>
+    <path d="M320 0V640" stroke="#1C2933"/>
+    <path d="M480 0V640" stroke="#1C2933"/>
+    <path d="M640 0V640" stroke="#1C2933"/>
+    <path d="M800 0V640" stroke="#1C2933"/>
+    <path d="M960 0V640" stroke="#1C2933"/>
+    <path d="M1120 0V640" stroke="#1C2933"/>
+  </g>
+
+  <rect class="frame" x="72" y="72" width="1136" height="496" rx="0" stroke="#253340" stroke-width="1"/>
+  <path class="frame" d="M72 434H1208" stroke="#253340"/>
+  <path class="frame" d="M816 72V568" stroke="#253340"/>
+
+  <circle class="signal" cx="1108" cy="164" r="42" stroke="#9AE6B4" stroke-width="1.5"/>
+  <circle class="core" cx="1108" cy="164" r="14" fill="#9AE6B4"/>
+  <path class="scan line-a" d="M1040 280H1176" stroke="#8AB4F8" stroke-width="2"/>
+  <path class="scan line-b" d="M1040 312H1176" stroke="#8AB4F8" stroke-width="2" opacity="0.55"/>
+  <path class="scan line-c" d="M1040 344H1136" stroke="#8AB4F8" stroke-width="2" opacity="0.3"/>
+
+  <text class="fade d1" x="112" y="148" fill="#8FA3B3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="5">SOFTWARE ENGINEER</text>
+  <text class="fade d2" x="112" y="258" fill="#F4F7FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">Antonio B.</text>
+  <text class="fade d3" x="112" y="344" fill="#F4F7FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">Batista</text>
+
+  <text x="112" y="492" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23">Product engineering / scalable systems / polished interfaces</text>
+  <text x="112" y="532" fill="#708492" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">github.com/abbatistam  /  antoniobbatistam@gmail.com</text>
+
+  <text x="856" y="486" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">SOFTWARE SYSTEMS</text>
+  <text x="856" y="516" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">PRODUCT THINKING</text>
+  <text x="856" y="546" fill="#708492" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">clarity / speed / maintainability</text>
+</svg>
