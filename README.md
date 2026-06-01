@@ -1,5 +1,5 @@
 <div align="center">
 
-![Antonio B. Batista](./assets/profile.svg)
+![Antonio B. Batista - Senior Frontend Engineer focused on frontend architecture, product workflows and accessible interfaces](./assets/profile.svg)
 
 </div>

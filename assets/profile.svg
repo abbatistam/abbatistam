@@ -1,6 +1,6 @@
 <svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Antonio B. Batista - Software Engineer</title>
-  <desc id="desc">Professional GitHub profile banner for Antonio B. Batista with role, stack, focus and contact information.</desc>
+  <title id="title">Antonio B. Batista - Senior Frontend Engineer</title>
+  <desc id="desc">Professional GitHub profile banner for Antonio B. Batista focused on frontend architecture, product workflows and accessible interfaces.</desc>
 
   <style>
     .grid { animation: gridPulse 8s ease-in-out infinite; }
@@ -76,14 +76,14 @@
   <path class="scan line-b" d="M1040 312H1176" stroke="#8AB4F8" stroke-width="2" opacity="0.55"/>
   <path class="scan line-c" d="M1040 344H1136" stroke="#8AB4F8" stroke-width="2" opacity="0.3"/>
 
-  <text class="fade d1" x="112" y="148" fill="#8FA3B3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="5">SOFTWARE ENGINEER</text>
+  <text class="fade d1" x="112" y="148" fill="#8FA3B3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="5">SENIOR FRONTEND ENGINEER</text>
   <text class="fade d2" x="112" y="258" fill="#F4F7FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">Antonio B.</text>
   <text class="fade d3" x="112" y="344" fill="#F4F7FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">Batista</text>
 
-  <text x="112" y="492" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23">Product engineering / scalable systems / polished interfaces</text>
-  <text x="112" y="532" fill="#708492" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">github.com/abbatistam  /  antoniobbatistam@gmail.com</text>
+  <text x="112" y="492" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23">UI architecture / product workflows / accessibility</text>
+  <text x="112" y="532" fill="#708492" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">frontend systems for complex product teams</text>
 
-  <text x="856" y="486" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">SOFTWARE SYSTEMS</text>
-  <text x="856" y="516" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">PRODUCT THINKING</text>
-  <text x="856" y="546" fill="#708492" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">clarity / speed / maintainability</text>
+  <text x="856" y="486" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">FRONTEND SYSTEMS</text>
+  <text x="856" y="516" fill="#B8C7D3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">PRODUCT WORKFLOWS</text>
+  <text x="856" y="546" fill="#708492" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">React / Next / Angular / Vue / Astro / TS</text>
 </svg>
